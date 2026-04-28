@@ -1,2 +1,14 @@
-# david-dice-roller-2
-Prototype: Dice Roller 2 - Deployed via VibeSharing
+# Dice Roller 2
+
+Deployed via [VibeSharing](https://vibesharing.app).
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Push to main branch - changes go live automatically.
